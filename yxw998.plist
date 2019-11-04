@@ -19,7 +19,7 @@
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>http://1916dafuhao.oss-cn-beijing.aliyuncs.com/1916%E7%94%B5%E7%8E%A9%E5%9F%8E.png</string>
+      <string>http://103.219.31.91:8060/app/FK.png</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -27,7 +27,7 @@
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>http://1916dafuhao.oss-cn-beijing.aliyuncs.com/1916%E7%94%B5%E7%8E%A9%E5%9F%8E.png</string>
+      <string>http://103.219.31.91:8060/app/FK.png</string>
      </dict>
     </array>
     <key>metadata</key>
@@ -41,7 +41,7 @@
      <key>subtitle</key>
      <string>com.JYWL.AppFo</string>
      <key>title</key>
-     <string>1916电玩</string>
+     <string>风云争霸</string>
     </dict>
    </dict>
   </array>
